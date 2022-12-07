@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: ApiRESTful
+metadata:
+  name: BackStage
+  description: |
+    Ejemplo de Back Stage
+  links:
+    - title: Website
+      url: http://10.110.15.144/
+ 
+  annotations:
+   
+spec:
+  type: library
+  owner: expd
+  lifecycle: experimental
