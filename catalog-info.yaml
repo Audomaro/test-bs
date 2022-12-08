@@ -6,7 +6,7 @@ metadata:
   labels:
     lrd-appsqa01/CSRM: CSRM_NO_SE
   tags:
-    - CSharp
+    CSharp
   links:
     - title: CSRM
       url: http://lrd-appsqa01/CSRM/
