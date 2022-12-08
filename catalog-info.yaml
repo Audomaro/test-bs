@@ -6,7 +6,8 @@ metadata:
   labels:
     lrd-appsqa01/CSRM: CSRM_NO_SE
   tags:
-    CSharp
+    - CSharp
+    - .Net
   links:
     - title: CSRM
       url: http://lrd-appsqa01/CSRM/
