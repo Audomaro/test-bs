@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: website
 metadata:
-  name: CSR Monitor
+  name: CSRM
   namespace: CSRM
   description: Sitio de administracion de operaciones.
   labels:
