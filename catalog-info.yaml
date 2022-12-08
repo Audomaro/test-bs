@@ -1,4 +1,4 @@
-apiVersion: CSRM V1.0
+apiVersion: default/backstage
 kind: WebApi
 metadata:
   name: backstage
