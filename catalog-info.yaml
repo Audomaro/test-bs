@@ -2,7 +2,6 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: CSRM
-  namespace: CSRM
   description: Sitio de administracion de operaciones.
   labels:
     lrd-appsqa01/CSRM: CSRM_NO_SE
