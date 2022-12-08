@@ -5,10 +5,8 @@ metadata:
   description: Sitio de administracion de operaciones.
   labels:
     lrd-appsqa01/CSRM: CSRM_NO_SE
-  annotations:
-    
   tags:
-    - C#
+    - C\#
   links:
     - title: CSRM
       url: http://lrd-appsqa01/CSRM/
