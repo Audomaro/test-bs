@@ -6,8 +6,8 @@ metadata:
   labels:
     lrd-appsqa01/CSRM: CSRM_NO_SE
   tags:
-    - CSharp
-    - Net
+    - java
+    - edge
   links:
     - title: CSRM
       url: http://lrd-appsqa01/CSRM/
