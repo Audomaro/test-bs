@@ -8,6 +8,8 @@ metadata:
   tags:
     - java
     - edge
+    - net
+    - c#
   links:
     - title: CSRM
       url: http://lrd-appsqa01/CSRM/
