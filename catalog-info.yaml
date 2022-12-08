@@ -1,5 +1,5 @@
-apiVersion: backstage.io/v1alpha1
-kind: Component
+apiVersion: 1.0
+kind: WebApi
 metadata:
   name: backstage
   description: |
