@@ -1,23 +1,20 @@
 apiVersion: backstage.io/v1alpha1
-kind: WebApi
+kind: website
 metadata:
-  name: backstage
-  description: |
-    Backstage is an open-source developer portal that puts the developer experience first.
-  links:
-    - title: Website
-      url: http://backstage.io
-    - title: Documentation
-      url: https://backstage.io/docs
-    - title: Storybook
-      url: https://backstage.io/storybook
-    - title: Discord Chat
-      url: https://discord.com/invite/EBHEGzX
+  name: CSR Monitor
+  namespace: CSRM
+  description: Sitio de administracion de operaciones.
+  labels:
+    lrd-appsqa01/CSRM: CSRM_NO_SE
   annotations:
-    github.com/project-slug: backstage/backstage
-    backstage.io/techdocs-ref: dir:.
-    lighthouse.com/website-url: https://backstage.io
+    
+  tags:
+    - C#
+  links:
+    - title: CSRM
+      url: http://lrd-appsqa01/CSRM/
 spec:
-  type: library
-  owner: CNCF
+  type: website
+  owner: NLD-DEV
   lifecycle: experimental
+  system: CSRM
