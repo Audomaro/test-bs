@@ -6,10 +6,9 @@ metadata:
   labels:
     lrd-appsqa01/CSRM: CSRM_NO_SE
   tags:
-    - java
-    - edge
-    - net
+    - dotnet
     - c#
+    - csrm
   links:
     - title: CSRM
       url: http://lrd-appsqa01/CSRM/
