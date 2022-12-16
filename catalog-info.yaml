@@ -13,7 +13,7 @@ metadata:
     - title: CSRM
       url: http://lrd-appsqa01/CSRM/
   annotations:
-    CSRM/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   owner: NLD-DEV
