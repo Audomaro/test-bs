@@ -13,7 +13,7 @@ metadata:
     - title: CSRM
       url: http://lrd-appsqa01/CSRM/
   annotations:
-    backstage.io/techdocs-ref: dir:.
+    backstage.io/managed-by-location: url:http://10.110.15.144/dev-tests/test-bs/blob/master/catalog-info.yaml
     
 spec:
   type: website
