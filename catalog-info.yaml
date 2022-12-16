@@ -13,6 +13,7 @@ metadata:
     - title: CSRM
       url: http://lrd-appsqa01/CSRM/
   annotations:
+    backstage.io/techdocs-ref: dir:.
     
 spec:
   type: website
