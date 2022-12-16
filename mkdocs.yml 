@@ -1,3 +1,10 @@
-# MKDOC EJEMPLO
+site_name: 'CSRM'
+site_description: 'Documentacion de CSRM'
+repo_url: http://10.110.15.144/dev-tests/test-bs
+edit_uri: edit/master/docs
 
-HOLA MUNDO
+plugins:
+  - techdocs-core
+
+nav:
+  - HOLA MUNDO: index.md
