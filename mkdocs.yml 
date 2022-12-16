@@ -7,4 +7,4 @@ plugins:
   - techdocs-core
 
 nav:
-  - HOLA MUNDO: index.md
+  - HOME: index.md
