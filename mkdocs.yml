@@ -1,4 +1,4 @@
-site_name: 'CSRM'
+site_name: {component-name}
 site_description: 'Documentacion de CSRM'
 repo_url: http://10.110.15.144/dev-tests/test-bs
 edit_uri: edit/master/docs
